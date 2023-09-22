@@ -1,1 +1,2 @@
 in demo file
+creating merge conflict in branch2
