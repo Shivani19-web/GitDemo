@@ -1,2 +1,2 @@
 in demo file
-creating merge conflict in branch1
+creating merge conflict in branch2
